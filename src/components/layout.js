@@ -89,19 +89,22 @@ const GlobalStyle = createGlobalStyle`
   article ul li {
   	list-style: none;
 	position: relative;
-	padding-left: 29px;
+	padding-left: 40px;
 	&::before {
-		content: '';
+		content: "";
+    	width: 30px;
+		height: 1.5px;
 		position: absolute;
-		left: 0;
-		top: 12px;
-		width: 12px;
-		height: 4px;
+		left: 0px;
+		top: 14px;
 		background-color: ${props => props.theme.primary};
 	}
   }
   blockquote {
   	border-left-color: ${props => props.theme.primary}
+  }
+  hr {
+	background: ${props => props.theme.emphasize}
   }
 `
 
@@ -144,7 +147,14 @@ class Layout extends React.Component {
           }}
         >
           <header>
-            <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <div
+              style={{
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'center',
+                marginBottom: rhythm(2.5)
+              }}
+            >
               {header}
               <DarkModeButton
                 isDarkMode={this.state.isDarkMode}

@@ -17,18 +17,21 @@ const DarkModeButton = ({ isDarkMode, toggle }) => (
             alignItems: 'center',
             height: '100%',
             fontSize: 15,
-            color: 'orange',
+            color: 'yellow',
             paddingRight: 2
           }}
         >
-          Off
+          <i className="far fa-lightbulb" />
         </div>
       }
       checkedIcon={
-        <svg viewBox="0 0 10 10" height="100%" width="100%" fill="aqua">
-          <circle r={3} cx={5} cy={5} />
-        </svg>
+        <i
+          style={{ marginLeft: '8px', color: 'orange' }}
+          className="far fa-moon"
+        />
       }
+      offColor="#132238"
+      onColor="#000"
       className="react-switch"
       id="icon-switch"
     />

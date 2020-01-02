@@ -8,8 +8,8 @@ const Header = ({ title, isRoot }) => {
       <h1
         style={{
           ...scale(1.5),
-          marginBottom: rhythm(2.5),
-          marginTop: 0
+          marginTop: 0,
+          marginBottom: 0
         }}
       >
         <Link
@@ -30,7 +30,7 @@ const Header = ({ title, isRoot }) => {
       style={{
         fontFamily: `Montserrat, sans-serif`,
         marginTop: 0,
-        marginBottom: rhythm(2.5)
+        marginBottom: 0
       }}
     >
       <Link
