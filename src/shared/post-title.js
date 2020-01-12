@@ -8,14 +8,13 @@ const StyledPostTitle = styled.section`
     margin-bottom: 15px;
     .entry__title {
       position: relative;
-      padding-left: 30px;
       display: inline;
       font-weight: 700;
       font-family: 'Baloo', sans-serif;
       font-size: ${props => (props.categorized ? '24px' : '36px')};
       margin: 0;
       text-align: left;
-      padding-left: 25px;
+      // padding-left: 25px;
       line-height: 1.2;
       z-index: 2;
     }
@@ -66,6 +65,7 @@ const StyledPostTitle = styled.section`
     }
     .info__category {
       font-weight: 700;
+      margin: 0;
     }
   }
 
@@ -125,7 +125,7 @@ const PostTitle = ({
       </Helmet>
       <header id="title">
         <h2 className="entry__title">
-          <span className="big-word">{title[0]}</span>
+          {/* <span className="big-word">{title[0]}</span> */}
           {slug ? (
             <Link style={{ boxShadow: `none` }} to={slug}>
               {title}
