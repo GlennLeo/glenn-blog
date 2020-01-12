@@ -19,7 +19,7 @@ const theme = {
 }
 
 const darkTheme = {
-  primary: '#dfa612',
+  primary: '#F6AD42',
   secondary: '#EFBB35',
   text: '#fff',
   emphasize: '#FAE042',
@@ -29,7 +29,7 @@ const darkTheme = {
   gray: '#eee',
   offWhite: '#EDEDED',
   maxWidth: '1000px',
-  background: '#132238'
+  background: '#15181C'
 }
 
 const GlobalStyle = createGlobalStyle`
