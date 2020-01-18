@@ -1,5 +1,5 @@
 import React from 'react'
-import { rhythm, scale } from '../utils/typography'
+import { scale } from '../utils/typography'
 import { Link } from 'gatsby'
 
 const Header = ({ title, isRoot }) => {

@@ -1,7 +1,7 @@
 import React from 'react'
 import { ThemeProvider, createGlobalStyle } from 'styled-components'
 import { rhythm } from '../utils/typography'
-import Header from '../shared/header'
+import Header from './header'
 import DarkModeButton from '../shared/dark-mode-button'
 
 const theme = {
