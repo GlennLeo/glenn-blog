@@ -110,7 +110,7 @@ const GlobalStyle = createGlobalStyle`
 
 class Layout extends React.Component {
   state = {
-    isDarkMode: localStorage ?localStorage.getItem('isDarkMode') == 'true' : false
+    isDarkMode: false
   }
   componentWillMount = () => {
     const isCurrentDarkMode = localStorage.getItem('isDarkMode') == 'true'
