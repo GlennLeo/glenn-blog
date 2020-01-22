@@ -112,7 +112,7 @@ class Layout extends React.Component {
   state = {
     isDarkMode: false
   }
-  componentWillMount = () => {
+  componentDidMount = () => {
     const isCurrentDarkMode = localStorage.getItem('isDarkMode') == 'true'
     if (isCurrentDarkMode) {
       this.setState({ isDarkMode: true })
