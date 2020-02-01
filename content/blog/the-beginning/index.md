@@ -2,7 +2,7 @@
 title: The Beginning
 date: "2020-02-22T22:59:03.284Z"
 description: "Hello world!"
-category: "Thoughts"
+category: "thoughts"
 tags: ["glenn", "thoughts"]
 ---
 # Intro
@@ -13,7 +13,7 @@ tags: ["glenn", "thoughts"]
  ![banh-chung](../../assets/banh-chung.jpg)
 <em>they do have a real talent for it 👍 </em>
 
-  In a different world, there is a guy still sitting at Highland coffee and waiting 3 hours to get on a train to come home. He doesn't know what to do and he feels bored. Then he thinks that it should be fun if he writes blogs. And he starts writing.
+  In a different world, there is a guy still sitting at Highland coffee and waiting for 3 hours to get on a train to come home. He doesn't know what to do and he feels bored. Then he thinks that it should be fun if he writes blogs. And he starts writing.
 
   ![sitting-at-highland](../../assets/sitting-at-highland.jpg)
   <em >there is a guy writing <del>on a tree</del> a blog...</em>
@@ -32,6 +32,6 @@ tags: ["glenn", "thoughts"]
   ![introver-world](../../assets/introvert-world.jpg)
   <center><em>there is a new whole world inside...</em></center>
   <br>
-  Honestly, he has no idea for now. Every day he has thousands of thoughts that keep running around in his head and he doesn't know how to express them out. As many introverts in the world, they are not good at expressing ourselves by word and better by text. So he thinks this blog should be a place for him to write all his thoughts down and help him find a way to organize them. Sometimes he might write about programming and will be likely to write in English as a way to learn and practice those skills (as you see there are a lot of grammar and spelling errors in this blog 😞, he said that he will appreciate it if you point out those for him). Anyway, that's all he wants to say in his first blog. Thank you for reading all of this 😄.
+  Honestly, he has no idea for now. Every day he has thousands of thoughts that keep running around in his head and he doesn't know how to express them out. As many introverts in the world, they are not good at expressing themselves by word and better by text. So he thinks this blog should be a place for him to write all his thoughts down and help him find a way to organize them. Sometimes he might write about programming and will be likely to write in English as a way to learn and practice those skills (as you see there are a lot of grammar and spelling errors in this blog 😞, he said that he will appreciate it if you point out those for him). Anyway, that's all he wants to say in his first blog. Thank you for reading all of this 😄.
 
   Have a nice Tet!
