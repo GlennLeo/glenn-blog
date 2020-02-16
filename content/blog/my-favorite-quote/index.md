@@ -6,7 +6,7 @@ category: "thoughts"
 tags: ["glenn", "thoughts"]
 ---
 
-This great advice is from a great man, Jim Rohn. It helps my life much easier when I have to make a decision with hundreds of voices around me.
+This great advice is from a great man, Jim Rohn. It helps my life much easier when I have to make a decision with a whole bunch of voices around me.
 
 "
 Don't be a follower, be a student.
