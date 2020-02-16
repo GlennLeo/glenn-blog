@@ -1,6 +1,6 @@
 ---
 title: The Beginning
-date: "2020-02-22T22:59:03.284Z"
+date: "2020-01-22T22:59:03.284Z"
 description: "Hello world!"
 category: "thoughts"
 tags: ["glenn", "thoughts"]
